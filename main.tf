@@ -2,7 +2,7 @@ variable "kms-my-app-instances" {
   type = list(string)
 
   #
-  # W A R N I N G ! ! ! !
+  # W A R N I N G ! ! ! 
   # Please add only at the end of list or we lose keys in the middle after your change.
   #
   default = [
