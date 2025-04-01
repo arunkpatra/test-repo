@@ -1,0 +1,1 @@
+subscription_id = "subscription_id = \"b29dff3d-6e8d-4bb9-a8c0-b2d9fef4fef0\"\nclient_id = \"00000000-0000-0000-0000-000000000000\"\nclient_secret = \"your-client-secret-here\"\ntenant_id = \"00000000-0000-0000-0000-000000000000\""
