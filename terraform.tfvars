@@ -1,0 +1,7 @@
+resource_group_name = "resource_group_name = \"rg-storage-account\"\nlocation = \"eastus\"\nenvironment = \"dev\"\n\n# Azure Authentication\nsubscription_id = \"\"  # Add your Subscription ID\ntenant_id = \"\"       # Add your Tenant ID\nclient_id = \"\"       # Add your Client ID\nclient_secret = \"\"   # Add your Client Secret"
+location = "location = \"eastus\""
+environment = "environment = \"dev\""
+subscription_id = "subscription_id = \"\"  # Replace with your Azure Subscription ID"
+tenant_id = "tenant_id = \"\"  # Replace with your Azure Tenant ID"
+client_id = "client_id = \"\"  # Replace with your Azure Client ID"
+client_secret = "client_secret = \"\"  # Replace with your Azure Client Secret"
