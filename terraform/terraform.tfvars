@@ -1,0 +1,6 @@
+resource_group_name = "resource_group_name = \"<REPLACE_WITH_YOUR_RESOURCE_GROUP_NAME>\"\nlocation = \"<REPLACE_WITH_YOUR_DESIRED_LOCATION>\""
+location = "<REPLACE_WITH_YOUR_DESIRED_LOCATION>"
+subscription_id = ""
+tenant_id = ""
+client_id = ""
+client_secret = ""
