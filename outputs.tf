@@ -1,0 +1,10 @@
+
+output "queue_url" {
+  description = "The URL of the SQS queue"
+  value       = aws_sqs_queue.request_queue.url
+}
+
+output "queue_arn" {
+  description = "The ARN of the SQS queue"
+  value       = aws_sqs_queue.request_queue.arn
+}
